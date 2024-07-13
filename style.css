@@ -24,8 +24,7 @@ body{
 }
 
 #hero-section #text{
-    position: absolute;
-    text-align: center;
+    position: relative;
     font-size: 3rem;
     color: white;
     font-weight: bolder;
